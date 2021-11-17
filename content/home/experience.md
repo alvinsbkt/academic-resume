@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Data Science Intern
+    company: Telkom Indonesia
+    company_url: https://www.telkom.co.id/sites
     company_logo: org-gc
-    location: California
+    location: Indonesia
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2021-06-01'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    PT Telkom Indonesia (Persero) Tbk (Telkom) is a state-owned information and communications technology enterprise and telecommunications network in Indonesia. 
+
+      * Proposed an alternative of calculating certain metrics related to customer's internet behavior
+      * Created visualizations and clusters of customers based on their internet behavior
+      * Built classification model utilizing deep learning and gradient boosted algorithm to classify future customer activity, whether they will report due to slow connection or not
         
   - title: Professor of Semiconductor Physics
     company: University X
