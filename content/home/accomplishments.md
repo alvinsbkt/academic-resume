@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url:
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2021-09-01"
+  description: "Data Analysis Competition (DAC) is a competition in data analysis for university students in the Southeast Asia region held by Sepuluh Nopember Institute of Technology. Its purpose is to grow competitiveness spirit and critical thinking in data analysis. In the preliminary created a recommendation model for residence based on customers' behavior. In the semifinal created a tree based modelling to predict share price based on internet activities in order to help achieve SDG 9.2."
+  organization: Himasta ITS
+  organization_url: https://www.prs-its.com/dac.html
+  title: 2nd Runner Up Data Analysis Competition PRS 2021 ITS
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
