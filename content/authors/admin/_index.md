@@ -61,5 +61,3 @@ highlight_name: true
 I am a lifetime learner, one who always look for ways to improve myself. I am fresh graduate in Mathematics, conducted a final project in the field of Natural Language Processing. I also have high interest in Statistics and Finance. I am goal oriented and love challenges, shown by participated in many and won 5 prestigious competitions. 
 
 I am very data driven and aspired to become data scientist, have 6 months internship experience as a data scientist and 1+ year experience in conducting data-related projects.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
