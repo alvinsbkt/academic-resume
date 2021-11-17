@@ -28,25 +28,25 @@ item:
   date_start: ""
   description: "Data Analysis Competition (DAC) is a competition in data analysis for university students in the Southeast Asia region held by Sepuluh Nopember Institute of Technology. Its purpose is to grow competitiveness spirit and critical thinking in data analysis. 
   In the preliminary created a recommendation model for residence based on customers' behavior. In the semifinal created a tree based modelling to predict share price based on internet activities in order to help achieve SDG 9.2."
-  organization: Himasta ITS
+  organization: "Himasta ITS"
   organization_url: https://arek.its.ac.id/hmstatistics/
-  title: 2nd Runner Up Data Analysis Competition PRS 2021 ITS
+  title: "2nd Runner Up Data Analysis Competition PRS 2021 ITS"
   url: https://www.prs-its.com/dac.html
 - certificate_url:
   date_end: "2021-06-01"
   date_start: ""
-  description: An annual national competition held by Keluarga Mahasiswa Teknik Elektro dan Teknologi Informasi Fakultas Teknik (KMTETI) UGM. Proposed a tree based model to predict book prices
-  organization: KMTETI UGM
+  description: "An annual national competition held by Keluarga Mahasiswa Teknik Elektro dan Teknologi Informasi Fakultas Teknik (KMTETI) UGM. Proposed a tree based model to predict book prices"
+  organization: "KMTETI UGM"
   organization_url: https://kmteti.ft.ugm.ac.id/
-  title: 2nd Runner Up Data Analytics Competition Find IT! UGM 2021
+  title: "2nd Runner Up Data Analytics Competition Find IT! UGM 2021"
   url: 
 - certificate_url:
   date_end: "2020-12-21"
   date_start: "2020-07-01"
-  description: Padjadjaran Statistics Olympiad RASIO 2020 is an annual national statistics competition held by HIMASTA Universitas Padjadjaran. Solved challenging theoretical statistics problem as well as analyzed and presented real case problem regarding the effect of different medical treatment in a limited time. Placed second in overall score and second best in theories out of 124 teams nationwide.
-  organization: HIMASTA Unpad
+  description: "Padjadjaran Statistics Olympiad RASIO 2020 is an annual national statistics competition held by HIMASTA Universitas Padjadjaran. Solved challenging theoretical statistics problem as well as analyzed and presented real case problem regarding the effect of different medical treatment in a limited time. Placed second in overall score and second best in theories out of 124 teams nationwide."
+  organization: "HIMASTA Unpad"
   organization_url: http://statistics.unpad.ac.id/websitedepstat/id
-  title: 1st Runner Up Padjadjaran Statistics Olympiad RASIO 2020
+  title: "1st Runner Up Padjadjaran Statistics Olympiad RASIO 2020"
   url: http://rasio.statistics.unpad.ac.id/
 
 design:
